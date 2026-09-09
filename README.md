@@ -234,7 +234,3 @@ npm run backup
 - [docs/roadmap-views-horizontal-quarters.md](docs/roadmap-views-horizontal-quarters.md) — квартальный вид
 - `backend/.env.example`, `frontend/.env.example` — переменные окружения
 
-## Репозиторий
-
-Рабочая копия (пример): `D:\Work\put-roadmap`  
-Не коммитьте `.env`, базы `*.sqlite` и `backend/backups/`.
